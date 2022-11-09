@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="413.6666666666667" y="-273.66666666666663">oops.inheritance.FinalExam</node>
+    <node x="78.66666666666666" y="-233.16666666666666">oops.inheritance.GradedActivity</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="oops.inheritance.FinalExam" target="oops.inheritance.GradedActivity" relationship="GENERALIZATION">
+      <point x="-84.0" y="0.0" />
+      <point x="214.5" y="-157.16666666666663" />
+      <point x="214.5" y="-161.16666666666666" />
+      <point x="108.0" y="0.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Compact" zoom="1.5" showDependencies="false" x="367.3333333333333" y="-85.0" />
+  <SelectedNodes>
+    <node>oops.inheritance.FinalExam</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

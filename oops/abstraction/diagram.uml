@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="-9.333333333333343" y="103.83333333333337">oops.abstraction.CompSciStudent</node>
+    <node x="20.333333333333314" y="-166.83333333333326">oops.abstraction.Student</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="oops.abstraction.CompSciStudent" target="oops.abstraction.Student" relationship="GENERALIZATION">
+      <point x="0.0" y="-170.5" />
+      <point x="80.66666666666666" y="44.833333333333385" />
+      <point x="110.33333333333331" y="44.833333333333385" />
+      <point x="0.0" y="87.16666666666666" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Compact" zoom="1.5" showDependencies="true" x="242.33333333333331" y="-2.333333333333343" />
+  <SelectedNodes>
+    <node>oops.abstraction.Student</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
